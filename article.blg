@@ -1,66 +1,50 @@
 This is BibTeX, Version 0.99d (TeX Live 2014/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: article.aux
-The style file: apsrev4-1.bst
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+The style file: plain.bst
 Database file #1: articleNotes.bib
 Database file #2: biblio.bib
 Warning--I didn't find a database entry for "Newman"
 Warning--I didn't find a database entry for ""
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
-Control: key (0) 
-Control: author (72) initials jnrlst
-Control: editor formatted (1) identically to author
-Control: production of article title (-1) disabled
-Control: page (0) single
-Control: year (1) truncated
-Control: production of eprint (0) enabled
 You've used 9 entries,
-            5847 wiz_defined-function locations,
-            1659 strings with 15594 characters,
-and the built_in function-call counts, 8045 in all, are:
-= -- 549
-> -- 165
-< -- 52
-+ -- 56
+            2118 wiz_defined-function locations,
+            561 strings with 4999 characters,
+and the built_in function-call counts, 2641 in all, are:
+= -- 260
+> -- 114
+< -- 1
++ -- 45
 - -- 36
-* -- 1162
-:= -- 839
-add.period$ -- 9
+* -- 157
+:= -- 460
+add.period$ -- 27
 call.type$ -- 9
-change.case$ -- 36
-chr.to.int$ -- 9
+change.case$ -- 44
+chr.to.int$ -- 0
 cite$ -- 9
-duplicate$ -- 762
-empty$ -- 603
-format.name$ -- 99
-if$ -- 1571
-int.to.chr$ -- 1
-int.to.str$ -- 17
-missing$ -- 93
-newline$ -- 79
-num.names$ -- 27
-pop$ -- 344
+duplicate$ -- 112
+empty$ -- 203
+format.name$ -- 36
+if$ -- 553
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 10
+newline$ -- 48
+num.names$ -- 18
+pop$ -- 36
 preamble$ -- 1
-purify$ -- 45
+purify$ -- 36
 quote$ -- 0
-skip$ -- 308
+skip$ -- 88
 stack$ -- 0
-substring$ -- 203
-swap$ -- 671
-text.length$ -- 19
+substring$ -- 137
+swap$ -- 24
+text.length$ -- 1
 text.prefix$ -- 0
-top$ -- 8
-type$ -- 116
+top$ -- 0
+type$ -- 34
 warning$ -- 0
-while$ -- 24
-width$ -- 0
-write$ -- 123
+while$ -- 23
+width$ -- 10
+write$ -- 100
 (There were 2 warnings)
