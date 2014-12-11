@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{AlBa2}
 R.~Albert and A.-L. Barabási.
@@ -20,15 +20,30 @@ S.~N. Dorogovtsev and J.~F.~F. Mendes.
 \newblock Evolution of networks.
 \newblock {\em Advances in Physics}, 51:1079--1187, 2002.
 
+\bibitem{Hazewinkel}
+Michiel Hazewinkel.
+\newblock {\em Encyclopedia of Mathematics}.
+\newblock Springer, 1995.
+
 \bibitem{Landau}
 L.~D. Landau.
 \newblock On the theory of phase transitions.
 \newblock {\em Zh. Eksp. Teor. Fiz. 7}, page 19–32, 1937.
 
+\bibitem{Mills}
+Terence~C. Mills and Kerry~D. Patterson.
+\newblock Carmichael's arctan trend : precursor of smooth transition functions.
+\newblock {\em Reading : Univ. of Reading, Dep. of Economics}, 2013.
+
 \bibitem{Newman2}
 M.~E.~J. Newman.
 \newblock Assortative mixing in networks.
 \newblock {\em Physical Review Letter}, 89, 2002.
+
+\bibitem{Newman1}
+M.~E.~J. Newman.
+\newblock The structure and function of complex networks.
+\newblock {\em SIAM Review}, 45:167–256, 2003.
 
 \bibitem{Pareto}
 Vilfredo Pareto.
