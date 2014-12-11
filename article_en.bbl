@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{Dor1}
+S.~N. Dorogovtsev, A.~V. Goltsev, and J.~F.~F. Mendes.
+\newblock Pseudofractal scale-free web.
+\newblock {\em Physical Review E}, 65, 2002.
+
+\bibitem{Landau}
+L.~D. Landau.
+\newblock On the theory of phase transitions.
+\newblock {\em Zh. Eksp. Teor. Fiz. 7}, page 19–32, 1937.
+
+\bibitem{Rozenfeld1}
+Hernan~D. Rozenfeld and Daniel ben Avraham.
+\newblock Percolation in hierarchical scale-free nets.
+\newblock {\em Physical Review E}, 75, 2007.
+
+\bibitem{Rozenfeld2}
+Hernan~D. Rozenfeld, Shlomo Havlin, and Daniel ben Avraham.
+\newblock Fractal and transfractal recursive scale-free nets.
+\newblock {\em New Journal of Physics}, 9:175, 2007.
+
+\end{thebibliography}
