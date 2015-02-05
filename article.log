@@ -1,0 +1,895 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.1.13)  17 JAN 2015 17:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/clutcher/projects/article-exceptive/article.tex
+(/home/clutcher/projects/article-exceptive/article.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip41
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count81
+\c@collab=\count82
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count83
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count84
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count91
+\fbox@1=\box36
+\c@table=\count92
+\fbox@2=\box37
+\c@video=\count93
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+Class revtex4-1 Info: Selecting society aps on input line 7542.
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
+)
+Class revtex4-1 Info: Selecting journal pra on input line 7544.
+Class revtex4-1 Info: APS journal PRA selected on input line 7545.
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
+) (/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/revsymb4-1.sty
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)) (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count95
+\uc@combtoks=\toks18
+\uc@combtoksb=\toks19
+\uc@temptokena=\toks20
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count96
+\U@D=\dimen102
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russianb 2014/10/21 1.3f Russian support for the Babel system
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 69.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 111.
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip46
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen103
+)
+LaTeX Info: Redefining \text on input line 39.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip11
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks22
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks23
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks24
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count109
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read1
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen114
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen115
+\subfiglabelskip=\skip52
+\c@subfigure=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@lotdepth=\count113
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen116
+\Hy@linkcounter=\count114
+\Hy@pagecounter=\count115
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count116
+Package hyperref Info: Option `unicode' set `true' on input line 3411.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+LaTeX Info: Redefining \href on input line 4952.
+\c@Hy@tempcnt=\count117
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen117
+\Fld@menulength=\count118
+\Field@Width=\dimen118
+\Fld@charsize=\dimen119
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count119
+\c@Item=\count120
+\c@Hfootnote=\count121
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count122
+\c@bookmark@seq@number=\count123
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip55
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count124
+\float@exts=\toks29
+\float@box=\box43
+\@float@everytoks=\toks30
+\@floatcapt=\box44
+) (/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count125
+\output=\toks31
+\linenoprevgraf=\count126
+\linenumbersep=\dimen120
+\linenumberwidth=\dimen121
+\c@linenumber=\count127
+\c@pagewiselinenumber=\count128
+\c@LN@truepage=\count129
+\c@internallinenumber=\count130
+\c@internallinenumbers=\count131
+\quotelinenumbersep=\dimen122
+\bframerule=\dimen123
+\bframesep=\dimen124
+\bframebox=\box45
+LaTeX Info: Redefining \\ on input line 3056.
+)
+Class revtex4-1 Info: Patching LaTeX tabular. on input line 24.
+
+Class revtex4-1 Warning: Repair the float package.
+
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 24.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 24.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 24.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 24.
+(/home/clutcher/projects/article-exceptive/article.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 20.
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+) (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen125
+\scratchbox=\box46
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen126
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks33
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box47
+Package hyperref Info: Link coloring OFF on input line 24.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count138
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+(/home/clutcher/projects/article-exceptive/article.out) (/home/clutcher/project
+s/article-exceptive/article.out)
+\@outlinefile=\write4
+\openout4 = `article.out'.
+
+Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 24.
+Class revtex4-1 Info: Overriding lineo.sty, restoring output routine, on input 
+line 24.
+Class revtex4-1 Info: Line numbering not turned on yet on input line 24.
+\openout3 = `articleNotes.bib'.
+
+Class revtex4-1 Info: Overriding \@LN@LLerror on input line 24.
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 39.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 42.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 43.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 43.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 46.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 46.
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 67.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 69.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 69.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 82.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 82.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 82.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 82.
+[2]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 87.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 87.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 98.
+Package epstopdf Info: Source file: <pygraph/baRank.eps>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 2473634 bytes
+(epstopdf)             Output file: <pygraph/baRank-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 423583 bytes
+(epstopdf)             Command: <repstopdf --outfile=pygraph/baRank-eps-convert
+ed-to.pdf pygraph/baRank.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+<pygraph/baRank-eps-converted-to.pdf, id=121, 578.16pt x 434.62375pt>
+File: pygraph/baRank-eps-converted-to.pdf Graphic file (type pdf)
+<use pygraph/baRank-eps-converted-to.pdf>
+Package pdftex.def Info: pygraph/baRank-eps-converted-to.pdf used on input line
+ 110.
+(pdftex.def)             Requested size: 208.17273pt x 156.49014pt.
+Package epstopdf Info: Source file: <pygraph/baGap.eps>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 158646 bytes
+(epstopdf)             Output file: <pygraph/baGap-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 24495 bytes
+(epstopdf)             Command: <repstopdf --outfile=pygraph/baGap-eps-converte
+d-to.pdf pygraph/baGap.eps>
+(epstopdf)             \includegraphics on input line 115.
+Package epstopdf Info: Output file is already uptodate.
+<pygraph/baGap-eps-converted-to.pdf, id=122, 578.16pt x 433.62pt>
+File: pygraph/baGap-eps-converted-to.pdf Graphic file (type pdf)
+<use pygraph/baGap-eps-converted-to.pdf>
+Package pdftex.def Info: pygraph/baGap-eps-converted-to.pdf used on input line 
+115.
+(pdftex.def)             Requested size: 208.65793pt x 156.49014pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 123.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 123.
+[3]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 132.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 132.
+Package epstopdf Info: Source file: <pygraph/baParams.eps>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 129106 bytes
+(epstopdf)             Output file: <pygraph/baParams-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 15099 bytes
+(epstopdf)             Command: <repstopdf --outfile=pygraph/baParams-eps-conve
+rted-to.pdf pygraph/baParams.eps>
+(epstopdf)             \includegraphics on input line 144.
+Package epstopdf Info: Output file is already uptodate.
+<pygraph/baParams-eps-converted-to.pdf, id=141, 578.16pt x 433.62pt>
+File: pygraph/baParams-eps-converted-to.pdf Graphic file (type pdf)
+<use pygraph/baParams-eps-converted-to.pdf>
+Package pdftex.def Info: pygraph/baParams-eps-converted-to.pdf used on input li
+ne 144.
+(pdftex.def)             Requested size: 208.65793pt x 156.49014pt.
+Package epstopdf Info: Source file: <pygraph/baParamsLog.eps>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 170514 bytes
+(epstopdf)             Output file: <pygraph/baParamsLog-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 29210 bytes
+(epstopdf)             Command: <repstopdf --outfile=pygraph/baParamsLog-eps-co
+nverted-to.pdf pygraph/baParamsLog.eps>
+(epstopdf)             \includegraphics on input line 149.
+Package epstopdf Info: Output file is already uptodate.
+<pygraph/baParamsLog-eps-converted-to.pdf, id=142, 578.16pt x 433.62pt>
+File: pygraph/baParamsLog-eps-converted-to.pdf Graphic file (type pdf)
+<use pygraph/baParamsLog-eps-converted-to.pdf>
+Package pdftex.def Info: pygraph/baParamsLog-eps-converted-to.pdf used on input
+ line 149.
+(pdftex.def)             Requested size: 208.65793pt x 156.49014pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 157.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 157.
+[4pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.157 
+       </home/clutcher/projects/article-exceptive/pygraph/baRank-eps-converted-
+to.pdf> </home/clutcher/projects/article-exceptive/pygraph/baGap-eps-converted-
+to.pdf>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 160.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 160.
+<graphics/bamatrix.png, id=206, 210.897pt x 210.897pt>
+File: graphics/bamatrix.png Graphic file (type png)
+<use graphics/bamatrix.png>
+Package pdftex.def Info: graphics/bamatrix.png used on input line 170.
+(pdftex.def)             Requested size: 156.49255pt x 156.49014pt.
+<graphics/bamatrix2.png, id=207, 211.2255pt x 210.897pt>
+File: graphics/bamatrix2.png Graphic file (type png)
+<use graphics/bamatrix2.png>
+Package pdftex.def Info: graphics/bamatrix2.png used on input line 175.
+(pdftex.def)             Requested size: 156.73628pt x 156.49014pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 188.
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.188 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.188 
+       </home/clutcher/projects/article-exceptive/pygraph/baParams-eps-converte
+d-to.pdf> </home/clutcher/projects/article-exceptive/pygraph/baParamsLog-eps-co
+nverted-to.pdf> </home/clutcher/projects/article-exceptive/graphics/bamatrix.pn
+g> </home/clutcher/projects/article-exceptive/graphics/bamatrix2.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 189.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 189.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 195.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 195.
+<graphics/hierarhical.png, id=257, 1246.6575pt x 384.43625pt>
+File: graphics/hierarhical.png Graphic file (type png)
+<use graphics/hierarhical.png>
+Package pdftex.def Info: graphics/hierarhical.png used on input line 201.
+(pdftex.def)             Requested size: 507.48058pt x 156.49014pt.
+<graphics/first_all_1.png, id=260, 612.2875pt x 612.2875pt>
+File: graphics/first_all_1.png Graphic file (type png)
+<use graphics/first_all_1.png>
+Package pdftex.def Info: graphics/first_all_1.png used on input line 215.
+(pdftex.def)             Requested size: 156.49094pt x 156.49014pt.
+<graphics/second.png, id=261, 612.2875pt x 612.2875pt>
+File: graphics/second.png Graphic file (type png)
+<use graphics/second.png>
+Package pdftex.def Info: graphics/second.png used on input line 220.
+(pdftex.def)             Requested size: 156.49094pt x 156.49014pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 229.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 229.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 229.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 229.
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.229 
+       </home/clutcher/projects/article-exceptive/graphics/hierarhical.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 273.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 273.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 273.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 273.
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.273 ...�ция алгоритма (u,v)-flowers}
+                                                   </home/clutcher/projects/art
+icle-exceptive/graphics/first_all_1.png> </home/clutcher/projects/article-excep
+tive/graphics/second.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 273.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 273.
+<graphics/third_n.png, id=305, 612.2875pt x 612.2875pt>
+File: graphics/third_n.png Graphic file (type png)
+<use graphics/third_n.png>
+Package pdftex.def Info: graphics/third_n.png used on input line 279.
+(pdftex.def)             Requested size: 156.49094pt x 156.49014pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 304.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 304.
+Package epstopdf Info: Source file: <pygraph/flowerRank.eps>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 1619629 bytes
+(epstopdf)             Output file: <pygraph/flowerRank-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 285572 bytes
+(epstopdf)             Command: <repstopdf --outfile=pygraph/flowerRank-eps-con
+verted-to.pdf pygraph/flowerRank.eps>
+(epstopdf)             \includegraphics on input line 316.
+Package epstopdf Info: Output file is already uptodate.
+<pygraph/flowerRank-eps-converted-to.pdf, id=309, 578.16pt x 434.62375pt>
+File: pygraph/flowerRank-eps-converted-to.pdf Graphic file (type pdf)
+<use pygraph/flowerRank-eps-converted-to.pdf>
+Package pdftex.def Info: pygraph/flowerRank-eps-converted-to.pdf used on input 
+line 316.
+(pdftex.def)             Requested size: 151.39433pt x 113.81102pt.
+Package epstopdf Info: Source file: <pygraph/flowerGap.eps>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 149886 bytes
+(epstopdf)             Output file: <pygraph/flowerGap-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 21628 bytes
+(epstopdf)             Command: <repstopdf --outfile=pygraph/flowerGap-eps-conv
+erted-to.pdf pygraph/flowerGap.eps>
+(epstopdf)             \includegraphics on input line 321.
+Package epstopdf Info: Output file is already uptodate.
+<pygraph/flowerGap-eps-converted-to.pdf, id=310, 578.16pt x 433.62pt>
+File: pygraph/flowerGap-eps-converted-to.pdf Graphic file (type pdf)
+<use pygraph/flowerGap-eps-converted-to.pdf>
+Package pdftex.def Info: pygraph/flowerGap-eps-converted-to.pdf used on input l
+ine 321.
+(pdftex.def)             Requested size: 151.74721pt x 113.81102pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 329.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 329.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 329.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 329.
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.329 
+       </home/clutcher/projects/article-exceptive/graphics/third_n.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 337.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 337.
+
+LaTeX Warning: Reference `fig:flowerParam_raw' on page 9 undefined on input lin
+e 341.
+
+Package epstopdf Info: Source file: <pygraph/flowerParamsLog.eps>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 169920 bytes
+(epstopdf)             Output file: <pygraph/flowerParamsLog-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-01-13 14:02:55
+(epstopdf)                    size: 28933 bytes
+(epstopdf)             Command: <repstopdf --outfile=pygraph/flowerParamsLog-ep
+s-converted-to.pdf pygraph/flowerParamsLog.eps>
+(epstopdf)             \includegraphics on input line 354.
+Package epstopdf Info: Output file is already uptodate.
+<pygraph/flowerParamsLog-eps-converted-to.pdf, id=332, 578.16pt x 433.62pt>
+File: pygraph/flowerParamsLog-eps-converted-to.pdf Graphic file (type pdf)
+<use pygraph/flowerParamsLog-eps-converted-to.pdf>
+Package pdftex.def Info: pygraph/flowerParamsLog-eps-converted-to.pdf used on i
+nput line 354.
+(pdftex.def)             Requested size: 208.65793pt x 156.49014pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 365.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 365.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 365.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 365.
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.365 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.365 
+       </home/clutcher/projects/article-exceptive/pygraph/flowerRank-eps-conver
+ted-to.pdf> </home/clutcher/projects/article-exceptive/pygraph/flowerGap-eps-co
+nverted-to.pdf> </home/clutcher/projects/article-exceptive/pygraph/flowerParams
+Log-eps-converted-to.pdf>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 366.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 366.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 378.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 378.
+(/home/clutcher/projects/article-exceptive/article.bbl
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 69.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 69.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 69.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 69.
+[10])
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 383.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 383.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 383.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 383.
+[11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
+(/home/clutcher/projects/article-exceptive/article.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
+Package rerunfilecheck Info: File `article.out' has not changed.
+(rerunfilecheck)             Checksum: 59D6F2580CA6BC678559A0DDC4FCB888;4830.
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14002 strings out of 493105
+ 190980 string characters out of 6137072
+ 300382 words of memory out of 5000000
+ 17238 multiletter control sequences out of 15000+600000
+ 14535 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,16n,35p,4808b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/t
+exmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm080
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on /home/clutcher/projects/article-exceptive/article.pdf (11 pag
+es, 1248114 bytes).
+PDF statistics:
+ 508 PDF objects out of 1000 (max. 8388607)
+ 426 compressed objects within 5 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
+
