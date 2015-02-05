@@ -1,63 +1,70 @@
 \begin{thebibliography}{10}
 
-\bibitem{AlBa2}
-R.~Albert and A.-L. Barabási.
-\newblock Statistical mechanics of complex networks.
-\newblock {\em Reviews of Modern Physics}, 74:47--97, 2002.
-
-\bibitem{AlBa1}
-A.-L. Barabási, R.~Albert, and H.~Jeong.
-\newblock Mean-field theory for scale-free random networks.
-\newblock {\em Physica A}, 272:173–187, 1999.
-
-\bibitem{Dor1}
-S.~N. Dorogovtsev, A.~V. Goltsev, and J.~F.~F. Mendes.
-\newblock Pseudofractal scale-free web.
-\newblock {\em Physical Review E}, 65, 2002.
-
 \bibitem{Dor2}
-S.~N. Dorogovtsev and J.~F.~F. Mendes.
-\newblock Evolution of networks.
-\newblock {\em Advances in Physics}, 51:1079--1187, 2002.
-
-\bibitem{Hazewinkel}
-Michiel Hazewinkel.
-\newblock {\em Encyclopedia of Mathematics}.
-\newblock Springer, 1995.
-
-\bibitem{Landau}
-L.~D. Landau.
-\newblock On the theory of phase transitions.
-\newblock {\em Zh. Eksp. Teor. Fiz. 7}, page 19–32, 1937.
-
-\bibitem{Mills}
-Terence~C. Mills and Kerry~D. Patterson.
-\newblock Carmichael's arctan trend : precursor of smooth transition functions.
-\newblock {\em Reading : Univ. of Reading, Dep. of Economics}, 2013.
-
-\bibitem{Newman2}
-M.~E.~J. Newman.
-\newblock Assortative mixing in networks.
-\newblock {\em Physical Review Letter}, 89, 2002.
+S.~N. Dorogovtsev and J.~F.~F. Mendes, ``Evolution of networks,'' {\em Advances
+  in Physics}, vol.~51, pp.~1079--1187, 2002.
 
 \bibitem{Newman1}
-M.~E.~J. Newman.
-\newblock The structure and function of complex networks.
-\newblock {\em SIAM Review}, 45:167–256, 2003.
+M.~E.~J. Newman, ``The structure and function of complex networks,'' {\em SIAM
+  Review}, vol.~45, p.~167–256, 2003.
+
+\bibitem{AlBa2}
+R.~Albert and A.-L. Barabási, ``Statistical mechanics of complex networks,''
+  {\em Reviews of Modern Physics}, vol.~74, pp.~47--97, 2002.
+
+\bibitem{Newman3}
+A.~Clauset, C.~R. Shalizi, and M.~E.~J. Newman, ``Power-law distributions in
+  empirical data,'' {\em SIAM Rev.}, vol.~51(4), 2009.
+
+\bibitem{AlBa3}
+J.-P. Onnela, J.~Saramäki, J.~Hyvönen, G.~Szabó, D.~Lazer, K.~Kaski,
+  J.~Kertész, and A.-L. Barabási, ``Structure and tie strengths in mobile
+  communication networks,'' {\em PNAS}, vol.~104(18), 2007.
 
 \bibitem{Pareto}
-Vilfredo Pareto.
-\newblock {\em Manual of political economy}.
+V.~Pareto, {\em Manual of political economy}.
 \newblock Augustus M Kelley Pubs, 1969.
 
-\bibitem{Rozenfeld1}
-Hernan~D. Rozenfeld and Daniel ben Avraham.
-\newblock Percolation in hierarchical scale-free nets.
-\newblock {\em Physical Review E}, 75, 2007.
+\bibitem{AlBa1}
+A.-L. Barabási, R.~Albert, and H.~Jeong, ``Mean-field theory for scale-free
+  random networks,'' {\em Physica A}, vol.~272, p.~173–187, 1999.
+
+\bibitem{Dor1}
+S.~N. Dorogovtsev, A.~V. Goltsev, and J.~F.~F. Mendes, ``Pseudofractal
+  scale-free web,'' {\em Physical Review E}, vol.~65, 2002.
+
+\bibitem{Landau}
+L.~D. Landau, ``On the theory of phase transitions,'' {\em Zh. Eksp. Teor. Fiz.
+  7}, p.~19–32, 1937.
+
+\bibitem{Newman2}
+M.~E.~J. Newman, ``Assortative mixing in networks,'' {\em Physical Review
+  Letter}, vol.~89, 2002.
 
 \bibitem{Rozenfeld2}
-Hernan~D. Rozenfeld, Shlomo Havlin, and Daniel ben Avraham.
-\newblock Fractal and transfractal recursive scale-free nets.
-\newblock {\em New Journal of Physics}, 9:175, 2007.
+H.~D. Rozenfeld, S.~Havlin, and D.~ben Avraham, ``Fractal and transfractal
+  recursive scale-free nets,'' {\em New Journal of Physics}, vol.~9, p.~175,
+  2007.
+
+\bibitem{Rozenfeld1}
+H.~D. Rozenfeld and D.~ben Avraham, ``Percolation in hierarchical scale-free
+  nets,'' {\em Physical Review E}, vol.~75, 2007.
+
+\bibitem{Hazewinkel}
+M.~Hazewinkel, {\em Encyclopedia of Mathematics}.
+\newblock Springer, 1995.
+
+\bibitem{Mills}
+T.~C. Mills and K.~D. Patterson, ``Carmichael's arctan trend : precursor of
+  smooth transition functions,'' {\em Reading : Univ. of Reading, Dep. of
+  Economics}, 2013.
+
+\bibitem{Economics2}
+A.~Atkinson and F.~Bourguignon, {\em Handbook of income distribution}.
+\newblock Elsevier imprint: North-Holland, 2007.
+
+\bibitem{Economics1}
+P.~Gottschalk, ``Inequality, income growth and mobility: The basic facts.,''
+  vol.~11, 1997.
 
 \end{thebibliography}

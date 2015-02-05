@@ -228,15 +228,7 @@ INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerGap.eps
 INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerGap-eps-converted-to.pdf
 INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerGap-eps-converted-to.pdf
 INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerGap-eps-converted-to.pdf
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams.eps
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams.eps
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams.eps
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams-eps-converted-to.pdf
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams-eps-converted-to.pdf
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams.eps
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams-eps-converted-to.pdf
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams-eps-converted-to.pdf
-INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParams-eps-converted-to.pdf
+INPUT /home/clutcher/.texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm
 INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParamsLog.eps
 INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParamsLog.eps
 INPUT /home/clutcher/projects/article-exceptive/pygraph/flowerParamsLog.eps
@@ -272,6 +264,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb

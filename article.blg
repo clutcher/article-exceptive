@@ -1,49 +1,49 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: article.aux
-The style file: plain.bst
+The style file: ieeetr.bst
 Database file #1: articleNotes.bib
 Database file #2: biblio.bib
-Warning--I didn't find a database entry for ""
-You've used 12 entries,
-            2118 wiz_defined-function locations,
-            578 strings with 5319 characters,
-and the built_in function-call counts, 3397 in all, are:
-= -- 332
-> -- 141
-< -- 1
-+ -- 57
-- -- 44
-* -- 197
-:= -- 595
-add.period$ -- 36
-call.type$ -- 12
-change.case$ -- 56
+Warning--empty journal in Economics1
+You've used 16 entries,
+            1876 wiz_defined-function locations,
+            583 strings with 5391 characters,
+and the built_in function-call counts, 3471 in all, are:
+= -- 335
+> -- 134
+< -- 0
++ -- 52
+- -- 36
+* -- 201
+:= -- 502
+add.period$ -- 19
+call.type$ -- 16
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 145
-empty$ -- 270
-format.name$ -- 44
-if$ -- 709
+cite$ -- 17
+duplicate$ -- 216
+empty$ -- 340
+format.name$ -- 36
+if$ -- 868
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 14
-newline$ -- 63
-num.names$ -- 24
-pop$ -- 51
+int.to.str$ -- 16
+missing$ -- 19
+newline$ -- 54
+num.names$ -- 16
+pop$ -- 59
 preamble$ -- 1
-purify$ -- 46
+purify$ -- 0
 quote$ -- 0
-skip$ -- 108
+skip$ -- 130
 stack$ -- 0
-substring$ -- 180
-swap$ -- 27
-text.length$ -- 1
+substring$ -- 112
+swap$ -- 87
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 44
-warning$ -- 0
-while$ -- 30
-width$ -- 14
-write$ -- 131
+type$ -- 0
+warning$ -- 1
+while$ -- 24
+width$ -- 18
+write$ -- 149
 (There was 1 warning)
