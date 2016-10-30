@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.1.29)  9 APR 2015 12:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.1.29)  10 APR 2015 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -516,11 +516,11 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 98.
 Package epstopdf Info: Source file: <pygraph/baRank.eps>
-(epstopdf)                    date: 2015-02-04 12:26:45
-(epstopdf)                    size: 2473634 bytes
+(epstopdf)                    date: 2015-04-10 12:08:06
+(epstopdf)                    size: 2465116 bytes
 (epstopdf)             Output file: <pygraph/baRank-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-02 14:39:06
-(epstopdf)                    size: 423583 bytes
+(epstopdf)                    date: 2015-04-10 12:08:16
+(epstopdf)                    size: 422511 bytes
 (epstopdf)             Command: <repstopdf --outfile=pygraph/baRank-eps-convert
 ed-to.pdf pygraph/baRank.eps>
 (epstopdf)             \includegraphics on input line 110.
@@ -532,21 +532,21 @@ Package pdftex.def Info: pygraph/baRank-eps-converted-to.pdf used on input line
  110.
 (pdftex.def)             Requested size: 208.17273pt x 156.49014pt.
 Package epstopdf Info: Source file: <pygraph/baGap.eps>
-(epstopdf)                    date: 2015-02-04 12:26:45
-(epstopdf)                    size: 158646 bytes
+(epstopdf)                    date: 2015-04-10 12:16:04
+(epstopdf)                    size: 108500 bytes
 (epstopdf)             Output file: <pygraph/baGap-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-02 14:39:07
-(epstopdf)                    size: 24499 bytes
+(epstopdf)                    date: 2015-04-10 12:16:24
+(epstopdf)                    size: 21990 bytes
 (epstopdf)             Command: <repstopdf --outfile=pygraph/baGap-eps-converte
 d-to.pdf pygraph/baGap.eps>
 (epstopdf)             \includegraphics on input line 115.
 Package epstopdf Info: Output file is already uptodate.
-<pygraph/baGap-eps-converted-to.pdf, id=122, 578.16pt x 433.62pt>
+<pygraph/baGap-eps-converted-to.pdf, id=122, 578.16pt x 434.62375pt>
 File: pygraph/baGap-eps-converted-to.pdf Graphic file (type pdf)
 <use pygraph/baGap-eps-converted-to.pdf>
 Package pdftex.def Info: pygraph/baGap-eps-converted-to.pdf used on input line 
 115.
-(pdftex.def)             Requested size: 208.65793pt x 156.49014pt.
+(pdftex.def)             Requested size: 208.17273pt x 156.49014pt.
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 123.
 Package babel Info: Redefining russian shorthand "~
@@ -561,37 +561,37 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 132.
 Package epstopdf Info: Source file: <pygraph/baParams.eps>
-(epstopdf)                    date: 2015-02-04 12:26:45
-(epstopdf)                    size: 129106 bytes
+(epstopdf)                    date: 2015-04-10 12:18:41
+(epstopdf)                    size: 75632 bytes
 (epstopdf)             Output file: <pygraph/baParams-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-02 14:39:07
-(epstopdf)                    size: 15099 bytes
+(epstopdf)                    date: 2015-04-10 12:20:19
+(epstopdf)                    size: 20075 bytes
 (epstopdf)             Command: <repstopdf --outfile=pygraph/baParams-eps-conve
 rted-to.pdf pygraph/baParams.eps>
 (epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
-<pygraph/baParams-eps-converted-to.pdf, id=141, 578.16pt x 433.62pt>
+<pygraph/baParams-eps-converted-to.pdf, id=141, 578.16pt x 434.62375pt>
 File: pygraph/baParams-eps-converted-to.pdf Graphic file (type pdf)
 <use pygraph/baParams-eps-converted-to.pdf>
 Package pdftex.def Info: pygraph/baParams-eps-converted-to.pdf used on input li
 ne 144.
-(pdftex.def)             Requested size: 208.65793pt x 156.49014pt.
+(pdftex.def)             Requested size: 208.17273pt x 156.49014pt.
 Package epstopdf Info: Source file: <pygraph/baParamsLog.eps>
-(epstopdf)                    date: 2015-02-04 12:26:45
-(epstopdf)                    size: 170514 bytes
+(epstopdf)                    date: 2015-04-10 12:20:13
+(epstopdf)                    size: 131475 bytes
 (epstopdf)             Output file: <pygraph/baParamsLog-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-02 14:39:08
-(epstopdf)                    size: 29210 bytes
+(epstopdf)                    date: 2015-04-10 12:20:19
+(epstopdf)                    size: 27703 bytes
 (epstopdf)             Command: <repstopdf --outfile=pygraph/baParamsLog-eps-co
 nverted-to.pdf pygraph/baParamsLog.eps>
 (epstopdf)             \includegraphics on input line 149.
 Package epstopdf Info: Output file is already uptodate.
-<pygraph/baParamsLog-eps-converted-to.pdf, id=142, 578.16pt x 433.62pt>
+<pygraph/baParamsLog-eps-converted-to.pdf, id=142, 578.16pt x 434.62375pt>
 File: pygraph/baParamsLog-eps-converted-to.pdf Graphic file (type pdf)
 <use pygraph/baParamsLog-eps-converted-to.pdf>
 Package pdftex.def Info: pygraph/baParamsLog-eps-converted-to.pdf used on input
  line 149.
-(pdftex.def)             Requested size: 208.65793pt x 156.49014pt.
+(pdftex.def)             Requested size: 208.17273pt x 156.49014pt.
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 157.
 Package babel Info: Redefining russian shorthand "~
@@ -613,12 +613,12 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 160.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 160.
-<graphics/bamatrix.png, id=206, 210.897pt x 210.897pt>
+<graphics/bamatrix.png, id=166, 210.897pt x 210.897pt>
 File: graphics/bamatrix.png Graphic file (type png)
 <use graphics/bamatrix.png>
 Package pdftex.def Info: graphics/bamatrix.png used on input line 170.
 (pdftex.def)             Requested size: 156.49255pt x 156.49014pt.
-<graphics/bamatrix2.png, id=207, 211.2255pt x 210.897pt>
+<graphics/bamatrix2.png, id=167, 211.2255pt x 210.897pt>
 File: graphics/bamatrix2.png Graphic file (type png)
 <use graphics/bamatrix2.png>
 Package pdftex.def Info: graphics/bamatrix2.png used on input line 175.
@@ -655,17 +655,17 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 195.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 195.
-<graphics/hierarhical.png, id=259, 1246.6575pt x 384.43625pt>
+<graphics/hierarhical.png, id=194, 1246.6575pt x 384.43625pt>
 File: graphics/hierarhical.png Graphic file (type png)
 <use graphics/hierarhical.png>
 Package pdftex.def Info: graphics/hierarhical.png used on input line 201.
 (pdftex.def)             Requested size: 507.48058pt x 156.49014pt.
-<graphics/first_all_1.png, id=262, 612.2875pt x 612.2875pt>
+<graphics/first_all_1.png, id=197, 612.2875pt x 612.2875pt>
 File: graphics/first_all_1.png Graphic file (type png)
 <use graphics/first_all_1.png>
 Package pdftex.def Info: graphics/first_all_1.png used on input line 215.
 (pdftex.def)             Requested size: 156.49094pt x 156.49014pt.
-<graphics/second.png, id=263, 612.2875pt x 612.2875pt>
+<graphics/second.png, id=198, 612.2875pt x 612.2875pt>
 File: graphics/second.png Graphic file (type png)
 <use graphics/second.png>
 Package pdftex.def Info: graphics/second.png used on input line 220.
@@ -714,7 +714,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 273.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 273.
-<graphics/third_n.png, id=307, 612.2875pt x 612.2875pt>
+<graphics/third_n.png, id=242, 612.2875pt x 612.2875pt>
 File: graphics/third_n.png Graphic file (type png)
 <use graphics/third_n.png>
 Package pdftex.def Info: graphics/third_n.png used on input line 279.
@@ -724,37 +724,37 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 306.
 Package epstopdf Info: Source file: <pygraph/flowerRank.eps>
-(epstopdf)                    date: 2015-02-04 12:26:45
-(epstopdf)                    size: 1619629 bytes
+(epstopdf)                    date: 2015-04-10 12:27:36
+(epstopdf)                    size: 1623689 bytes
 (epstopdf)             Output file: <pygraph/flowerRank-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-02 14:39:10
-(epstopdf)                    size: 285572 bytes
+(epstopdf)                    date: 2015-04-10 12:30:27
+(epstopdf)                    size: 285325 bytes
 (epstopdf)             Command: <repstopdf --outfile=pygraph/flowerRank-eps-con
 verted-to.pdf pygraph/flowerRank.eps>
 (epstopdf)             \includegraphics on input line 318.
 Package epstopdf Info: Output file is already uptodate.
-<pygraph/flowerRank-eps-converted-to.pdf, id=312, 578.16pt x 434.62375pt>
+<pygraph/flowerRank-eps-converted-to.pdf, id=247, 578.16pt x 434.62375pt>
 File: pygraph/flowerRank-eps-converted-to.pdf Graphic file (type pdf)
 <use pygraph/flowerRank-eps-converted-to.pdf>
 Package pdftex.def Info: pygraph/flowerRank-eps-converted-to.pdf used on input 
 line 318.
 (pdftex.def)             Requested size: 151.39433pt x 113.81102pt.
 Package epstopdf Info: Source file: <pygraph/flowerGap.eps>
-(epstopdf)                    date: 2015-02-04 12:26:45
-(epstopdf)                    size: 149886 bytes
+(epstopdf)                    date: 2015-04-10 12:30:20
+(epstopdf)                    size: 86341 bytes
 (epstopdf)             Output file: <pygraph/flowerGap-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-02 14:39:10
-(epstopdf)                    size: 21628 bytes
+(epstopdf)                    date: 2015-04-10 12:30:27
+(epstopdf)                    size: 18423 bytes
 (epstopdf)             Command: <repstopdf --outfile=pygraph/flowerGap-eps-conv
 erted-to.pdf pygraph/flowerGap.eps>
 (epstopdf)             \includegraphics on input line 323.
 Package epstopdf Info: Output file is already uptodate.
-<pygraph/flowerGap-eps-converted-to.pdf, id=313, 578.16pt x 433.62pt>
+<pygraph/flowerGap-eps-converted-to.pdf, id=248, 578.16pt x 434.62375pt>
 File: pygraph/flowerGap-eps-converted-to.pdf Graphic file (type pdf)
 <use pygraph/flowerGap-eps-converted-to.pdf>
 Package pdftex.def Info: pygraph/flowerGap-eps-converted-to.pdf used on input l
 ine 323.
-(pdftex.def)             Requested size: 151.74721pt x 113.81102pt.
+(pdftex.def)             Requested size: 151.39433pt x 113.81102pt.
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 331.
 Package babel Info: Redefining russian shorthand "~
@@ -775,22 +775,23 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 339.
 Package epstopdf Info: Source file: <pygraph/flowerParamsLog.eps>
-(epstopdf)                    date: 2015-02-04 12:26:45
-(epstopdf)                    size: 169920 bytes
+(epstopdf)                    date: 2015-04-10 12:34:41
+(epstopdf)                    size: 146223 bytes
 (epstopdf)             Output file: <pygraph/flowerParamsLog-eps-converted-to.p
 df>
-(epstopdf)                    date: 2015-03-02 14:39:11
-(epstopdf)                    size: 28933 bytes
+(epstopdf)                    date: 2015-04-10 12:34:49
+(epstopdf)                    size: 30593 bytes
 (epstopdf)             Command: <repstopdf --outfile=pygraph/flowerParamsLog-ep
 s-converted-to.pdf pygraph/flowerParamsLog.eps>
 (epstopdf)             \includegraphics on input line 356.
 Package epstopdf Info: Output file is already uptodate.
-<pygraph/flowerParamsLog-eps-converted-to.pdf, id=335, 578.16pt x 433.62pt>
+
+<pygraph/flowerParamsLog-eps-converted-to.pdf, id=269, 578.16pt x 434.62375pt>
 File: pygraph/flowerParamsLog-eps-converted-to.pdf Graphic file (type pdf)
 <use pygraph/flowerParamsLog-eps-converted-to.pdf>
 Package pdftex.def Info: pygraph/flowerParamsLog-eps-converted-to.pdf used on i
 nput line 356.
-(pdftex.def)             Requested size: 208.65793pt x 156.49014pt.
+(pdftex.def)             Requested size: 208.17273pt x 156.49014pt.
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 369.
 Package babel Info: Redefining russian shorthand "~
@@ -820,9 +821,9 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 369.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 383.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 383.
 (/home/clutcher/projects/article-exceptive/article.bbl
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
@@ -830,25 +831,25 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
 )
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 386.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 386.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 386.
+(babel)             in language  on input line 388.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 386.
+(babel)             in language  on input line 388.
 [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 388.
 (/home/clutcher/projects/article-exceptive/article.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 388.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 388.
 Package rerunfilecheck Info: File `article.out' has not changed.
 (rerunfilecheck)             Checksum: B86BD8BB2A66450CDE83C5E979AA6D1C;4983.
  ) 
 Here is how much of TeX's memory you used:
  13997 strings out of 493105
  190919 string characters out of 6137072
- 299969 words of memory out of 5000000
+ 300984 words of memory out of 5000000
  17235 multiletter control sequences out of 15000+600000
  13718 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -856,33 +857,27 @@ Here is how much of TeX's memory you used:
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm090
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfti0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helveti
-c/uhvr8a.pfb>
+t/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb>
 Output written on /home/clutcher/projects/article-exceptive/article.pdf (10 pag
-es, 1235606 bytes).
+es, 1227987 bytes).
 PDF statistics:
- 499 PDF objects out of 1000 (max. 8388607)
- 418 compressed objects within 5 object streams
+ 392 PDF objects out of 1000 (max. 8388607)
+ 327 compressed objects within 4 object streams
  75 named destinations out of 1000 (max. 500000)
  202 words of extra memory for PDF output out of 10000 (max. 10000000)
 
